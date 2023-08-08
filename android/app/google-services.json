@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "177278746030",
+    "project_id": "lunchbox-6e3da",
+    "storage_bucket": "lunchbox-6e3da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177278746030:android:e22c0b86d630d603589c3f",
+        "android_client_info": {
+          "package_name": "com.example.lunchbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177278746030-9ved2t30vdlo033siuraka6qu3vrjocm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lunchbox",
+            "certificate_hash": "885d711e784004a5460b22999f832cf5fc9ad376"
+          }
+        },
+        {
+          "client_id": "177278746030-tdngifuf24t9jnv0cdctlm3k38agc6ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBzY036GS7nqrbwHt2xKPAScywrLQ1C44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177278746030-tdngifuf24t9jnv0cdctlm3k38agc6ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
